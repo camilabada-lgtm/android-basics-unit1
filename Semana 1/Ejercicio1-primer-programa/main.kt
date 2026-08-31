@@ -1,7 +1,4 @@
-/**
- * You can edit, run, and share this code.
- * play.kotlinlang.org
- */
 fun main() {
-    println("Hello, Android!")
+    println("Hello, Camila!")
+    println("Hello, Camila!")
 }
